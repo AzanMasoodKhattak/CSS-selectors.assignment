@@ -13,7 +13,7 @@
 
 /* ID selector*/
 /* #myspan{color: aqua;}
-
+ 
 /*Child selector*/
 /*span>p{color: blueviolet;}
 
@@ -24,7 +24,7 @@
 /*h1+p{color: purple;}
 
 /*General sibling selector*/
-h1~p{color: yellow;}
+/*h1~p{color: yellow;}
 
   
 
